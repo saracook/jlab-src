@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.3.8
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: saracook@stanford.edu
+author_name: Sara Cook
+has_binder: true
+has_settings: true
+kind: frontend
+labextension_name: jlab-src
+project_short_description: Stanford Research Computing Enhancements
+python_name: jlab_src
+repository: https://github.com/saracook/jlab-src.git
+test: false
+
