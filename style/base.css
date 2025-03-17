@@ -3,3 +3,20 @@
 
     https://jupyterlab.readthedocs.io/en/stable/developer/css.html
 */
+button.jp-mod-styled.jp-mod-accept {
+    background:  #8C1515;
+    border: 0;
+    color: white;
+}
+button.jp-mod-styled.jp-mod-accept:active,
+button.jp-mod-styled.jp-mod-accept:hover {
+    background: #B83A4B;
+}
+
+button.jp-Dialog-button.jp-mod-styled.jp-mod-accept:focus {
+    outline: 1px solid #B83A4B;
+}
+
+.jp-Dialog-content {
+    border-top:10px solid  #8C1515;
+}
